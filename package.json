@@ -1,0 +1,25 @@
+{
+  "name": "leafletdrawcn",
+  "version": "1.0.0",
+  "description": "A Chinese translation for Leaflet.draw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"browser-sync start --server --files \"**/*.html,**/*.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonxiang/Leaflet.draw_CN.git"
+  },
+  "keywords": [
+    "leaflet",
+    "draw",
+    "chinese"
+  ],
+  "author": "brandonxiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonxiang/Leaflet.draw_CN/issues"
+  },
+  "homepage": "https://github.com/brandonxiang/Leaflet.draw_CN#readme"
+}
