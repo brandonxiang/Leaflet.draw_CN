@@ -84,7 +84,7 @@ L.drawLocal = {
         handlers: {
             edit: {
                 tooltip: {
-                    text: '拉拽节点或者编辑去编辑要素.',
+                    text: '拉拽节点或者拖动来编辑要素.',
                     subtext: '点击取消撤销修改.'
                 }
             },
